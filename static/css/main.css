@@ -45,6 +45,15 @@ h1{
     border: 1px solid #000cf5;
     /*border-bottom: solid 10px rgba(255,255,255,0.1);*/
   }
+  form{
+    padding: 15px;
+    text-align: center;
+    vertical-align:middle;
+    font-weight: 300;
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #000cf5;
+  }
   
   
   /* demo styles */
